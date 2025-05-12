@@ -1,0 +1,17 @@
+Source Program: 
+var else, x, call;
+x := call + 5 * else;
+end.
+
+No errors, program is syntactically correct
+
+7 0 3
+6 0 6
+3 0 5
+1 0 5
+3 0 3
+2 0 3
+2 0 1
+4 0 4
+2 0 0
+9 0 3
