@@ -1,6 +1,6 @@
 # PL-0-Compiler
 
-This project is a complete compiler for the PL/0 programming language, built over a sequence of assignments for a compiler construction course. The project is organized into four main folders: `HW1`, `HW2`, `HW3`, and `HW4Compiler`. Each stage builds upon the last, culminating in a fully working compiler.
+This project is a complete compiler for the PL/0 programming language, built over a sequence of assignments for my **System Software** course. The project is organized into four main folders: `HW1`, `HW2`, `HW3`, and `HW4Compiler`. Each stage builds upon the last, culminating in a fully working compiler.
 
 ## 📁 Project Structure
 
